@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm LordSnivy209</h1>
 <h3 align="center">Profesional</h3>
-- 📫 Discord: **LordSnivy209**
+- 📫 Discord: LordSnivy209
 
 - ⚡ Fun fact **I'm fucking hilarious**
 
