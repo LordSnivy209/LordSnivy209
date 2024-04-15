@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm LordSnivy209</h1>
 <h3 align="center">Profesional</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordsnivy209" alt="lordsnivy209" /></a> </p>
-
 - 📫 Discord: **LordSnivy209**
 
 - ⚡ Fun fact **I'm fucking hilarious**
