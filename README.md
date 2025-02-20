@@ -2,8 +2,6 @@
 <h3 align="center">Profesional</h3>
 - 📫 Discord: LordSnivy209
 
-- ⚡ Fun fact **I'm fucking hilarious**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UC4IA1TqH2MD9ep8YFBydLsA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lordsnivy209" height="30" width="40" /></a>
